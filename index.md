@@ -1,4 +1,7 @@
-# _Testing_
+# Nathan's First CS193 Homework
+- Freedom of creativity through coding
+- When you enter the coding flow state
+- Overcoming challenges
 
 ## Welcome to GitHub Pages
 
